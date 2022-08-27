@@ -9,13 +9,13 @@ public class TipeDataNumber {
         long iniLong2 = 400000;
 
         float iniFloat = 10.12F;
-        double iniDouble = 12.2424
+        double iniDouble = 12.2424;
 
         //literals
-        int decimalint  =20;
-        int hexint = 0xA13B;
-        int binint =  0b101010101
+        int decimalint = 20;
+        int hexint = 0xFFFFFF;
+        int binint =  0b101010101;
 
-         int amount = 1.000_2.0000()
+        int amount = 1_000_000_000;
     }
 }
